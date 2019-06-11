@@ -1,0 +1,22 @@
+{
+  "name": "fg-server",
+  "version": "1.0.0",
+  "description": "websocket server for fg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Michael Laceda",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlaceda/fg-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jlaceda/fg-server/issues"
+  },
+  "homepage": "https://github.com/jlaceda/fg-server#readme",
+  "dependencies": {
+    "ws": "^7.0.0"
+  }
+}
